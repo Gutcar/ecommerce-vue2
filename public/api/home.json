@@ -1,0 +1,30 @@
+{
+  "planes": [
+    {
+      "titulo": "Paga lo que hablas",
+      "texto": "En BigMobile, sólo pagas lo que hablas. Nada de perder minutos ni cobros de más"
+    },
+    {
+      "titulo": "Cambiate cuando quiera",
+      "texto": "En BigMobile, no te amarramos. Puedes cambiarte de plan cuando quieras"
+    },
+    {
+      "titulo": "Minutos adicionales",
+      "texto": "Si quedaste corto de minutos este mes, puedes agregar minutos adicionales al mismo precio que tu plan"
+    }
+  ],
+  "opiniones": [
+    {
+      "nombre": "José Pedreros",
+      "texto": "Son bacanes! Esta compañía te apaña caleta."
+    },
+    {
+      "nombre": "Miguel Cáceres",
+      "texto": "Acá sí te contestan el teléfono cuando los llamas"
+    },
+    {
+      "nombre": "Soledad Gómez",
+      "texto": "Lo mejor es la señal"
+    }
+  ]
+}

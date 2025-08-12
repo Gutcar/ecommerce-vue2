@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 2334,
+      "quantity": 1,
+      "price": 99000
+    },
+    {
+      "id": 2341,
+      "quantity": 1,
+      "price": 89000
+    }
+  ],
+  "totales:": {
+    "subtotal": 88000,
+    "descuentos": 8000,
+    "total": 80000
+  },
+  "cliente:": {
+    "nombre": "Juan Perez",
+    "email": "juan@yahoo.com",
+    "fono": "993244523"
+  },
+  "despacho:": {
+    "direccion": "Las Camelias 1234",
+    "comuna": "Santiago Centro"
+  },
+  "formapago": "webpay"
+}
